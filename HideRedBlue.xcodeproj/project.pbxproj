@@ -284,6 +284,7 @@
 				FE5EF8EA1C387B7000764367 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
